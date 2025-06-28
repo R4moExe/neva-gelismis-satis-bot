@@ -1,0 +1,16 @@
+{
+  "name": "bos_altyapi",
+  "version": "1.0.0",
+  "description": "Discord.JS v14",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "slenzycode",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "croxydb": "^0.0.22",
+    "discord.js": "^14.13.0"
+  }
+}
