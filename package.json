@@ -1,12 +1,12 @@
 {
-  "name": "bos_altyapi",
+  "name": "neva-gelismis-satis-bot",
   "version": "1.0.0",
-  "description": "Discord.JS v14",
+  "description": "Neva Development Gelişmiş Satış Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "slenzycode",
+  "author": "r4moisback",
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.2",
